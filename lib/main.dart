@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_framework/responsive_framework.dart';
 
-import 'screens/home_screen.dart';
 import 'screens/nav_screen.dart';
 
 void main() => runApp(MyApp());
